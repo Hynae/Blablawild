@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Blablawild</string>
+    <string name="search_an_itinerary">Search an itinerary</string>
+    <string name="destination">Destination</string>
+    <string name="date">Date</string>
+    <string name="search">Search</string>
+    <string name="departure">Departure</string>
+    <string name="Date">01/01/1970</string>
+    <string name="toastText">Please fill your Departure and Destination!</string>
+    <string name="_01_01_1970">01/01/1970</string>
+    <string name="destinationname">destination</string>
+    <string name="Searchan">SEARCH AN ITINERARY</string>
+    <string name="SEARCHH">SEARCH</string>
+</resources>
